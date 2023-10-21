@@ -5,3 +5,4 @@
 - [Prevention of Sexual Harassment](./prevention-of-sexual-harassment.md)
 - [Technical Paper- Caching](./technical-paper-caching.md)
 - [Energy Management](./energy-management.md)
+- [Focus Management](./focus-management.md)
