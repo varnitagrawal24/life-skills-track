@@ -24,7 +24,7 @@
 - Don't be afraid of challenges, see them as chances to learn.
 - Enjoy learning new things and trying new experiences.
   ***
-  ### Question 4
+  ### Question 5
 **What are your ideas to take action and build Growth Mindset?**
 
 - Always be ready to learn new things and improve.
